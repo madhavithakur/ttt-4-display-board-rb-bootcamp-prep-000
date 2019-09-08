@@ -6,6 +6,6 @@ def display_board(board)
   # puts  board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
   # puts  board = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
    board[0] = "O"
-    board[4] = "X"
+   board[4] = "X"
    puts board
 end 
