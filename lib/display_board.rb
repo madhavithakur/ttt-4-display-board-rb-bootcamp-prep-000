@@ -2,8 +2,9 @@
 # out the current state.
 
 def display_board(board)
-  puts board = [" "," "," "," "," "," "," "," "," "]
+  board = [" "," "," "," "," "," "," "," "," "]
   # puts  board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
   # puts  board = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
    board[0] = "O"
+   puts board
 end 
